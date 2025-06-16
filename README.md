@@ -34,7 +34,7 @@ Contiene la **aplicación de escritorio desarrollada en C#** con **Visual Studio
   - Conexión directa con la API REST
   - Gestión local y remota de datos
 
-### 📄 BBDD
+### 📄 SQL
 Archivo SQL que define la **estructura de la base de datos MySQL**, incluyendo la creación de tablas, relaciones, restricciones e índices necesarios para el funcionamiento del sistema.
 
 ---
