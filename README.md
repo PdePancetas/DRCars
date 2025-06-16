@@ -6,7 +6,7 @@ Este repositorio contiene el Trabajo de Fin de Grado (TFG) titulado **"DRCars"**
 
 El repositorio está organizado en las siguientes carpetas:
 
-### 📁 `DRCarsWeb`
+### 📁 DRCarsWeb
 Contiene el **código fuente de la aplicación web** desarrollada con **Next.js**. Esta interfaz permite a los usuarios interactuar con el sistema desde el navegador.
 
 - **Tecnología**: Next.js (React)
@@ -15,7 +15,7 @@ Contiene el **código fuente de la aplicación web** desarrollada con **Next.js*
   - Visualización y gestión de vehículos
   - Acceso a funcionalidades conectadas a la API REST
 
-### 📁 `DRCarsApiREST`
+### 📁 DRCarsApiREST
 Incluye el **backend desarrollado con Spring Boot**, encargado de gestionar la lógica de negocio y actuar como puente entre las aplicaciones cliente y la base de datos.
 
 - **Tecnología**: Java con Spring Boot
@@ -25,7 +25,7 @@ Incluye el **backend desarrollado con Spring Boot**, encargado de gestionar la l
   - Seguridad y validación
   - Conexión con base de datos MySQL
 
-### 📁 `DRCarsDesktop`
+### 📁 DRCarsDesktop
 Contiene la **aplicación de escritorio desarrollada en C#** con **Visual Studio**, orientada a tareas administrativas o uso local por parte del personal autorizado.
 
 - **Tecnología**: C# (.NET)
@@ -34,7 +34,7 @@ Contiene la **aplicación de escritorio desarrollada en C#** con **Visual Studio
   - Conexión directa con la API REST
   - Gestión local y remota de datos
 
-### 📄 `BBDD.sql`
+### 📄 BBDD
 Archivo SQL que define la **estructura de la base de datos MySQL**, incluyendo la creación de tablas, relaciones, restricciones e índices necesarios para el funcionamiento del sistema.
 
 ---
